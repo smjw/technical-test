@@ -33,7 +33,7 @@ withme/
 │ ├─ models.py
 │ ├─ views.py
 │ └─ tests.py
-├─ frontend/ # React app
+├─ frontend/ 
 │ ├─ package.json
 │ └─ src/
 └─ requirements.txt
