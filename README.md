@@ -23,19 +23,20 @@ A simple web application allowing users to register, log in, and see a success p
 ---
 
 ## Project Structure
-
+```text 
 withme/
 ├─ manage.py
-├─ withme/ # Django project
+├─ withme/ 
 │ ├─ settings.py
 │ └─ urls.py
-├─ register/ # Django app
+├─ register/
 │ ├─ models.py
 │ ├─ views.py
 │ └─ tests.py
 ├─ frontend/ # React app
 │ ├─ package.json
 │ └─ src/
-└─ requirements.txt # Python dependencies
+└─ requirements.txt
 
+```
 
