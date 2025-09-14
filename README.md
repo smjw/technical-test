@@ -40,3 +40,9 @@ withme/
 
 ```
 
+--- 
+
+## Getting Started
+
+The simplest way to get the project is to use GitHub Desktop to clone the repository to your computer. Once cloned you can install dependencies and set up the virtual environment. After that, the React development server should be started to run the frontend. The backend server and frontend will run locally. The backend runs locally at [http://127.0.0.1:8000/](http://127.0.0.1:8000/),you can open the frontend in your browser to interact with the app at [http://localhost:3000/](http://localhost:3000/). 
+
